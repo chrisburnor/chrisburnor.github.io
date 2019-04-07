@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://&lt;github_username&gt;.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</loc>
+    <lastmod>2012-04-30T05:00:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://&lt;github_username&gt;.github.io/posts/deployment-tools-and-guide/</loc>
+    <lastmod>2012-04-24T05:00:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://&lt;github_username&gt;.github.io/posts/ode-to-the-little-stuff/</loc>
+    <lastmod>2012-01-01T10:24:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://&lt;github_username&gt;.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://&lt;github_username&gt;.github.io/</loc>
+    <lastmod>2012-04-30T05:00:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://&lt;github_username&gt;.github.io/posts/</loc>
+    <lastmod>2012-04-30T05:00:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://&lt;github_username&gt;.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
