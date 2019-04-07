@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Burnor</title>
-    <link>https://&lt;github_username&gt;.github.io/</link>
+    <link>https://chrisburnor.github.io/</link>
     <description>Recent content on Chris Burnor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Apr 2012 05:00:40 -0700</lastBuildDate>
     
-	<atom:link href="https://<github_username>.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chrisburnor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Do One Thing (at a Time) and Do It Well</title>
-      <link>https://&lt;github_username&gt;.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</link>
+      <link>https://chrisburnor.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</link>
       <pubDate>Mon, 30 Apr 2012 05:00:40 -0700</pubDate>
       
-      <guid>https://&lt;github_username&gt;.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</guid>
+      <guid>https://chrisburnor.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</guid>
       <description>The Great Law of Unix and its progeny is to do one thing and do it well. Although Unix programs may have great complexity, they are focused and modular. This has certainly lead to the amazing success of Unix, BSD, Linux and other *nix operating systems in the tech world, but I think that this law is more generally applicable than simply &amp;lsquo;how to write Unix programs.&amp;rsquo;
 My previous post is, in essence merely a re-statement of this law.</description>
     </item>
     
     <item>
       <title>Deployment Tools and Guide</title>
-      <link>https://&lt;github_username&gt;.github.io/posts/deployment-tools-and-guide/</link>
+      <link>https://chrisburnor.github.io/posts/deployment-tools-and-guide/</link>
       <pubDate>Tue, 24 Apr 2012 05:00:10 -0700</pubDate>
       
-      <guid>https://&lt;github_username&gt;.github.io/posts/deployment-tools-and-guide/</guid>
+      <guid>https://chrisburnor.github.io/posts/deployment-tools-and-guide/</guid>
       <description>This isn&amp;rsquo;t your ordinary guide to deployment and tools. As a matter of fact, this is somewhat of an anti-guide &amp;ndash; a guide on how to approach tools and deployment &amp;ndash; rather than a guide to any specific approach. I was inspired for this by a post yesterday to Hacker News by Hynek Schlawack on Python Deployment Anti-Patterns and other tools used in doing Python web development. The article and associated discussion on HN are both excellent and I highly recommend a read.</description>
     </item>
     
     <item>
       <title>Ode to the Little Stuff</title>
-      <link>https://&lt;github_username&gt;.github.io/posts/ode-to-the-little-stuff/</link>
+      <link>https://chrisburnor.github.io/posts/ode-to-the-little-stuff/</link>
       <pubDate>Sun, 01 Jan 2012 10:24:53 -0700</pubDate>
       
-      <guid>https://&lt;github_username&gt;.github.io/posts/ode-to-the-little-stuff/</guid>
+      <guid>https://chrisburnor.github.io/posts/ode-to-the-little-stuff/</guid>
       <description>This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time.</description>
     </item>
     
