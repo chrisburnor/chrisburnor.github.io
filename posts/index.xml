@@ -2,40 +2,249 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chris Burnor</title>
-    <link>https://chrisburnor.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Chris Burnor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Apr 2012 05:00:40 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2014 09:53:00 -0800</lastBuildDate>
     
-	<atom:link href="https://chrisburnor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Weekly Thoughts</title>
+      <link>/posts/weekly-thoughts/</link>
+      <pubDate>Mon, 03 Nov 2014 09:53:00 -0800</pubDate>
+      
+      <guid>/posts/weekly-thoughts/</guid>
+      <description>I found an interesting blogging idea today to simply write down 5 of the things I&amp;rsquo;ve been thinking about lately. Like Nadia, my ambitions for my blogging far exceed my capacity. However, as with most skills, increasing capacity comes through excercising such capacity as already exists. So I&amp;rsquo;m going to try to at least once a week, write down a list of the 5 things that have been on my mind during that past week.</description>
+    </item>
+    
+    <item>
+      <title>Life&#39;s Too Short to Work at a Boring Company</title>
+      <link>/posts/lifes-too-short-to-work-at-a-boring-company/</link>
+      <pubDate>Wed, 09 Oct 2013 12:34:00 -0800</pubDate>
+      
+      <guid>/posts/lifes-too-short-to-work-at-a-boring-company/</guid>
+      <description>Note: This is an opinion piece that I wrote for the Amherst Student school newspaper. The original post can be found here.
+This is the time of year when I miss Amherst the most. The few orange or yellow trees I see along the road are a sad imitation of the colors that radiate in the hills of the Pioneer Valley. I am now far from that place, here in a different valley — one known more for silicon and software than puritans and poets.</description>
+    </item>
+    
+    <item>
+      <title>Groklaw Is Shutting Down</title>
+      <link>/posts/groklaw-is-shutting-down/</link>
+      <pubDate>Tue, 20 Aug 2013 09:09:00 -0800</pubDate>
+      
+      <guid>/posts/groklaw-is-shutting-down/</guid>
+      <description>I am deeply saddened to learn that the tech legal blog Groklaw.net is ceasing operations due to concerns about the security of their email.  &amp;hellip;the conclusion I&amp;rsquo;ve reached is that there is no way to continue doing Groklaw, not long term, which is incredibly sad. But it&amp;rsquo;s good to be realistic. And the simple truth is, no matter how good the motives might be for collecting and screening everything we say to one another, and no matter how &amp;ldquo;clean&amp;rdquo; we all are ourselves from the standpoint of the screeners, I don&amp;rsquo;t know how to function in such an atmosphere.</description>
+    </item>
+    
+    <item>
+      <title>The Abyss From Which There Is No Return</title>
+      <link>/posts/the-abyss-from-which-there-is-no-return/</link>
+      <pubDate>Tue, 20 Aug 2013 08:53:00 -0800</pubDate>
+      
+      <guid>/posts/the-abyss-from-which-there-is-no-return/</guid>
+      <description>&amp;ldquo;The big deal is simply this: once you allow the government to start breaking the law, no matter how seemingly justifiable the reason, you relinquish the contract between you and the government which establishes that the government works for and obeys you, the citizen—the employer—the master. And once the government starts operating outside the law, answerable to no one but itself, there’s no way to rein it back in, short of revolution.</description>
+    </item>
+    
+    <item>
+      <title>You Can&#39;t Have No Process</title>
+      <link>/posts/you-cant-have-no-process/</link>
+      <pubDate>Mon, 19 Aug 2013 12:00:00 -0800</pubDate>
+      
+      <guid>/posts/you-cant-have-no-process/</guid>
+      <description>Process is a concrete instance of that effervescent multiplier in a startup: execution. It certainly is not execution itself, but is a repeatable (and repeating) building block of a current execution strategy &amp;ndash; especially in a particular aspect of the business (sales, dev, market validation, etc). It is the day-in and day-out patterns of behavior that your team makes into habit until they are virtually invisible. A lot of teams think that you heavy process is bad and os they aim to be &amp;lsquo;lightweight&amp;rsquo; saying things like &amp;lsquo;we don&amp;rsquo;t want to come up with a process to slow us down, let&amp;rsquo;s just do stuff&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Walkers</title>
+      <link>/posts/walkers/</link>
+      <pubDate>Mon, 22 Jul 2013 15:00:00 -0800</pubDate>
+      
+      <guid>/posts/walkers/</guid>
+      <description>When I was in elementary school, there was a division among students based on the mode of transportation used to get to school. Those who took the bus were called &amp;lsquo;Riders&amp;rsquo; and those who walked to school were &amp;lsquo;Walkers&amp;rsquo;. As I lived so that our backyard adjoined the schoolyard, I was, naturally a walker. The first week or so, my mom would walk with me to school, but after that I was pretty much on my own for the five minute stroll.</description>
+    </item>
+    
+    <item>
+      <title>Terminals: Finally a New Hope</title>
+      <link>/posts/terminals-finally-a-new-hope/</link>
+      <pubDate>Fri, 19 Jul 2013 09:05:00 -0800</pubDate>
+      
+      <guid>/posts/terminals-finally-a-new-hope/</guid>
+      <description>I just wanted to make a quick follow-up to my previous post ranting about the state of modern terminal emulators. Hacker News recently had a link to an awesome project called FinalTerm. I can&amp;rsquo;t say that I think it&amp;rsquo;s perfect (not thrilled exactly about terminal autocompletion &amp;ndash; that should be the shell&amp;rsquo;s business), but it&amp;rsquo;s the most promising terminal improvement I&amp;rsquo;ve seen in a long time. Sadly there&amp;rsquo;s no OSX support on the horizon.</description>
+    </item>
+    
+    <item>
+      <title>Humility, Technical Skills and Context</title>
+      <link>/posts/humility-technical-skills-and-context/</link>
+      <pubDate>Wed, 17 Jul 2013 08:45:00 -0800</pubDate>
+      
+      <guid>/posts/humility-technical-skills-and-context/</guid>
+      <description>When I started blogging, I imagined that my blog would end up like many of those that I follow and value: filled with little technical tidbits, tutorials and analyses. Starting off out of college, I recall being in awe at those who knew All The Things and would so generously share them with the world. At that time, I was reading blogs more about how to set up a Wordpress site or install Google Analytics.</description>
+    </item>
+    
+    <item>
+      <title>Grand Expeditionary Forces</title>
+      <link>/posts/grand-expeditionary-forces/</link>
+      <pubDate>Sat, 13 Jul 2013 14:42:00 -0800</pubDate>
+      
+      <guid>/posts/grand-expeditionary-forces/</guid>
+      <description>​I played a lot of Risk as a kid (well, actually as a teenager and adult too) and observed the emergent strategies that players take in that game. Most players, after the first few terms tend to be holed up in one area of the board: Australia, South America, Europe. They don&amp;rsquo;t have a continent per say, but they at least control a foothold in an area, which they defend vigorously, dumping all their armies on every term.</description>
+    </item>
+    
+    <item>
+      <title>The Criminal Nsa</title>
+      <link>/posts/the-criminal-nsa/</link>
+      <pubDate>Fri, 28 Jun 2013 11:08:00 -0800</pubDate>
+      
+      <guid>/posts/the-criminal-nsa/</guid>
+      <description>Great Op-Ed piece in the New York Times
+ &amp;ldquo;The N.S.A. has intentionally acquired information it is not allowed to have, even under the terrifyingly broad auspices of the FISA Amendments Act.&amp;rdquo;  Remember that the Patriot Act was highly controversial when it was originally passed even in the form that it was originally interpretted.
+ Leave aside the Patriot Act and FISA Amendments Act for a moment, and turn to the Constitution.</description>
+    </item>
+    
+    <item>
+      <title>The Poison Is Secrecy</title>
+      <link>/posts/the-poison-is-secrecy/</link>
+      <pubDate>Tue, 25 Jun 2013 09:29:00 -0800</pubDate>
+      
+      <guid>/posts/the-poison-is-secrecy/</guid>
+      <description>Why we’re all conspiracy theorists now (This is a cross-post from my first post on Medium)
+In the past few weeks since the first release of the Verizon phone record subpoena and the subsequent releases of PRISM and other covert federal activities, much of the debate has focused on the particulars of the programs — whether they are legal/illegal, whether they go too far, how they relate to historical surveillence systems, and so on.</description>
+    </item>
+    
+    <item>
+      <title>Rocket Powered Bicycles</title>
+      <link>/posts/rocket-powered-bicycles/</link>
+      <pubDate>Fri, 24 May 2013 12:02:00 -0800</pubDate>
+      
+      <guid>/posts/rocket-powered-bicycles/</guid>
+      <description>I gave a talk back in February on how to avoid under or over engineering your product. I was heavily inspired for some of these ideas by my good friend Preet Anand.</description>
+    </item>
+    
+    <item>
+      <title>Terminals: A Rant</title>
+      <link>/posts/terminals-a-rant/</link>
+      <pubDate>Thu, 14 Mar 2013 14:27:00 -0800</pubDate>
+      
+      <guid>/posts/terminals-a-rant/</guid>
+      <description>First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&amp;rsquo;s usually in the foreground. Honestly, if it weren&amp;rsquo;t for the fact that most of my work is implemented in the browser (and that the best developers are the first to Google), I could probably ditch the GUI entirely.
+However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Thinking About the End of the World</title>
+      <link>/posts/thoughts-on-thinking-about-the-end-of-the-world/</link>
+      <pubDate>Fri, 21 Dec 2012 14:05:00 -0800</pubDate>
+      
+      <guid>/posts/thoughts-on-thinking-about-the-end-of-the-world/</guid>
+      <description>Like many others this week, my Facebook and Twitter feeds have been full of &amp;lsquo;end of the world&amp;rsquo; posts and my social aggregation sites have been full of doomsday sales and promotions. Also, like so many, I have responded to such discussion with a roll of the eyes. Clearly the world is not going to end based on some prophecy or misunderstanding of an ancient calendar. Why waste our mental energies on such nonsense.</description>
+    </item>
+    
+    <item>
+      <title>Incremental Decision Making</title>
+      <link>/posts/incremental-decision-making/</link>
+      <pubDate>Sun, 18 Nov 2012 04:00:00 -0800</pubDate>
+      
+      <guid>/posts/incremental-decision-making/</guid>
+      <description>I found this article in the New York Times a while ago and it got me to thinking about how we actually make decisions and the different philosophies that we use to govern our decision making process. This is vitally important to start-ups as 80% of the work amounts to making decisions. The funny thing about those decisions is that most of them are inconsequential, but a few of them turn out to be vitally important.</description>
+    </item>
+    
+    <item>
+      <title>Users, Customers and Community</title>
+      <link>/posts/users-customers-and-community/</link>
+      <pubDate>Wed, 14 Nov 2012 00:04:00 -0800</pubDate>
+      
+      <guid>/posts/users-customers-and-community/</guid>
+      <description>Jack Dorsey posted last week on reconsidering the use of the term &amp;lsquo;user.&amp;rsquo; He proposes replacing it with the word &amp;lsquo;customer&amp;rsquo; in the general sense, and &amp;lsquo;buyer&amp;rsquo; and &amp;lsquo;seller&amp;rsquo; in the specific Square context. While I agree in the general sense that the term &amp;lsquo;user&amp;rsquo; is somewhat disparaging (though not as bad as some terms I&amp;rsquo;ve heard &amp;ndash; like &amp;lsquo;muggle&amp;rsquo;) , I think that replacing the term with &amp;lsquo;customer&amp;rsquo; is a step backwards.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the Deal With .*rc files?</title>
+      <link>/posts/whats-the-deal-with-star-rc-files/</link>
+      <pubDate>Sun, 11 Nov 2012 20:35:00 -0800</pubDate>
+      
+      <guid>/posts/whats-the-deal-with-star-rc-files/</guid>
+      <description>Modern POSIX operating systems are littered with ._rc and rc._ files. Apparently these stand for &amp;lsquo;run commands&amp;rsquo; and the term actually dates all the way back to 1965 on the MIT CTSS system (the precursor to Multics which was the precursor to Unix).
+I love the overwhelming weight of history that you find in a *nix system.</description>
+    </item>
+    
+    <item>
+      <title>Upside Vs Downside Risk</title>
+      <link>/posts/upside-vs-downside-risk/</link>
+      <pubDate>Thu, 08 Nov 2012 23:29:00 -0800</pubDate>
+      
+      <guid>/posts/upside-vs-downside-risk/</guid>
+      <description>Risk is usually discussed in one dimensional terms, as though it is a scalar that simply has a value in a particular situation. Sky diving is risky. Leaving the root MySQL account without a password is risky. Starting a company is risky. I think this is a mis-modeling of how risk works.
+What is risk? Fundamentally, it is simply a probability &amp;ndash; the chance that a particular outcome will manifest itself in a given situation.</description>
+    </item>
+    
+    <item>
+      <title>Success Is 80% Not Screwing Up</title>
+      <link>/posts/success-is-80-percent-not-screwing-up/</link>
+      <pubDate>Sun, 28 Oct 2012 14:01:00 -0800</pubDate>
+      
+      <guid>/posts/success-is-80-percent-not-screwing-up/</guid>
+      <description>There was a poster in the the hallway of my middle school that said &amp;lsquo;Shoot for the Moon: Even if you miss, you&amp;rsquo;ll land among the stars.&amp;rsquo;
+I always hated that poster.
+My cynical eighth grade self, thought &amp;ldquo;It should read: &amp;lsquo;Shoot for the Moon: If you miss, you&amp;rsquo;ll slowly suffocate to death in the cold loneliness of space.&amp;rsquo; &amp;ldquo; Cynicism aside, it seemed patently false. Success wasn&amp;rsquo;t about shooting for the moon, but doing your homework, studying for tests and not being a dick to your friends.</description>
+    </item>
+    
+    <item>
+      <title>Space Colony Art From the 1970s</title>
+      <link>/posts/space-colony-art-from-the-1970s/</link>
+      <pubDate>Tue, 12 Jun 2012 05:00:00 -0800</pubDate>
+      
+      <guid>/posts/space-colony-art-from-the-1970s/</guid>
+      <description>Link
+I remember seeing these pictures in a book in my local library and being absolutely enamored of them. The juxtaposition of New England-style countryside inside of gleaming, bright cylinders looked like the most wonderful world to my young eyes. I recently re-watched Stanley Kubrik&amp;rsquo;s 2001: A Space Odyssey and was amazed how it, like this, despite how dated it is, still is my vision of &amp;lsquo;the future&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>I Created a Monster</title>
+      <link>/posts/i-created-a-monster/</link>
+      <pubDate>Fri, 01 Jun 2012 06:47:00 -0800</pubDate>
+      
+      <guid>/posts/i-created-a-monster/</guid>
+      <description>Sometime in April of 2012, I came into work to find out that my crazy co-workers had, over a bottle of scotch, spent the previous evening throwing together an experimental dating site called CupidCurated. I admired their audacity and congratulated them for pulling it off and then chuckled to myself as I went back to &amp;lsquo;real&amp;rsquo; work on StartupDigest VIP. You may have read about this a few weeks ago. This is the story of what comes next and what it really means to build a minimum viable product &amp;ndash; from the engineer who built it.</description>
+    </item>
+    
+    <item>
+      <title>App Specific Settings for Django</title>
+      <link>/posts/app-specific-settings-for-django/</link>
+      <pubDate>Fri, 01 Jun 2012 05:00:00 -0800</pubDate>
+      
+      <guid>/posts/app-specific-settings-for-django/</guid>
+      <description>While Django encourages a healthy degree of decoupling in how apps and modules are structured, the settings file can very easily become a monolithic mess. There are some good resources for how to divide up settings file between environments, but with a big application, even that can leave you with a mess of configuration settings.
+What is particularly annoying in this situation is that many of these settings really just affect one app.</description>
+    </item>
+    
+    <item>
       <title>Do One Thing (at a Time) and Do It Well</title>
-      <link>https://chrisburnor.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</link>
+      <link>/posts/do-one-thing-at-a-time-and-do-it-well/</link>
       <pubDate>Mon, 30 Apr 2012 05:00:40 -0700</pubDate>
       
-      <guid>https://chrisburnor.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</guid>
+      <guid>/posts/do-one-thing-at-a-time-and-do-it-well/</guid>
       <description>The Great Law of Unix and its progeny is to do one thing and do it well. Although Unix programs may have great complexity, they are focused and modular. This has certainly lead to the amazing success of Unix, BSD, Linux and other *nix operating systems in the tech world, but I think that this law is more generally applicable than simply &amp;lsquo;how to write Unix programs.&amp;rsquo;
 My previous post is, in essence merely a re-statement of this law.</description>
     </item>
     
     <item>
       <title>Deployment Tools and Guide</title>
-      <link>https://chrisburnor.github.io/posts/deployment-tools-and-guide/</link>
+      <link>/posts/deployment-tools-and-guide/</link>
       <pubDate>Tue, 24 Apr 2012 05:00:10 -0700</pubDate>
       
-      <guid>https://chrisburnor.github.io/posts/deployment-tools-and-guide/</guid>
+      <guid>/posts/deployment-tools-and-guide/</guid>
       <description>This isn&amp;rsquo;t your ordinary guide to deployment and tools. As a matter of fact, this is somewhat of an anti-guide &amp;ndash; a guide on how to approach tools and deployment &amp;ndash; rather than a guide to any specific approach. I was inspired for this by a post yesterday to Hacker News by Hynek Schlawack on Python Deployment Anti-Patterns and other tools used in doing Python web development. The article and associated discussion on HN are both excellent and I highly recommend a read.</description>
     </item>
     
     <item>
       <title>Ode to the Little Stuff</title>
-      <link>https://chrisburnor.github.io/posts/ode-to-the-little-stuff/</link>
+      <link>/posts/ode-to-the-little-stuff/</link>
       <pubDate>Sun, 01 Jan 2012 10:24:53 -0700</pubDate>
       
-      <guid>https://chrisburnor.github.io/posts/ode-to-the-little-stuff/</guid>
+      <guid>/posts/ode-to-the-little-stuff/</guid>
       <description>This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time.</description>
     </item>
     

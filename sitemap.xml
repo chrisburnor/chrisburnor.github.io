@@ -3,39 +3,149 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chrisburnor.github.io/posts/do-one-thing-at-a-time-and-do-it-well/</loc>
+    <loc>/posts/weekly-thoughts/</loc>
+    <lastmod>2014-11-03T09:53:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lifes-too-short-to-work-at-a-boring-company/</loc>
+    <lastmod>2013-10-09T12:34:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/groklaw-is-shutting-down/</loc>
+    <lastmod>2013-08-20T09:09:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/the-abyss-from-which-there-is-no-return/</loc>
+    <lastmod>2013-08-20T08:53:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/you-cant-have-no-process/</loc>
+    <lastmod>2013-08-19T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/walkers/</loc>
+    <lastmod>2013-07-22T15:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/terminals-finally-a-new-hope/</loc>
+    <lastmod>2013-07-19T09:05:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/humility-technical-skills-and-context/</loc>
+    <lastmod>2013-07-17T08:45:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/grand-expeditionary-forces/</loc>
+    <lastmod>2013-07-13T14:42:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/the-criminal-nsa/</loc>
+    <lastmod>2013-06-28T11:08:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/the-poison-is-secrecy/</loc>
+    <lastmod>2013-06-25T09:29:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/rocket-powered-bicycles/</loc>
+    <lastmod>2013-05-24T12:02:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/terminals-a-rant/</loc>
+    <lastmod>2013-03-14T14:27:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/thoughts-on-thinking-about-the-end-of-the-world/</loc>
+    <lastmod>2012-12-21T14:05:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/incremental-decision-making/</loc>
+    <lastmod>2012-11-18T04:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/users-customers-and-community/</loc>
+    <lastmod>2012-11-14T00:04:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/whats-the-deal-with-star-rc-files/</loc>
+    <lastmod>2012-11-11T20:35:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/upside-vs-downside-risk/</loc>
+    <lastmod>2012-11-08T23:29:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/success-is-80-percent-not-screwing-up/</loc>
+    <lastmod>2012-10-28T14:01:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/space-colony-art-from-the-1970s/</loc>
+    <lastmod>2012-06-12T05:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/i-created-a-monster/</loc>
+    <lastmod>2012-06-01T06:47:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/app-specific-settings-for-django/</loc>
+    <lastmod>2012-06-01T05:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/do-one-thing-at-a-time-and-do-it-well/</loc>
     <lastmod>2012-04-30T05:00:40-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrisburnor.github.io/posts/deployment-tools-and-guide/</loc>
+    <loc>/posts/deployment-tools-and-guide/</loc>
     <lastmod>2012-04-24T05:00:10-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrisburnor.github.io/posts/ode-to-the-little-stuff/</loc>
+    <loc>/posts/ode-to-the-little-stuff/</loc>
     <lastmod>2012-01-01T10:24:53-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrisburnor.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrisburnor.github.io/</loc>
-    <lastmod>2012-04-30T05:00:40-07:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2014-11-03T09:53:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrisburnor.github.io/posts/</loc>
-    <lastmod>2012-04-30T05:00:40-07:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2014-11-03T09:53:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrisburnor.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
