@@ -1,0 +1,469 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chris Burnor</title>
+  <link href="/index.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2014-11-03T09:53:00-08:00</updated>
+  <id>/</id>
+  <generator>Hugo -- gohugo.io</generator>
+  <entry>
+    <title type="html"><![CDATA[Weekly Thoughts]]></title>
+    <link href="/posts/weekly-thoughts/"/>
+    <id>/posts/weekly-thoughts/</id>
+    <published>2014-11-03T09:53:00-08:00</published>
+    <updated>2014-11-03T09:53:00-08:00</updated>
+    <content type="html"><![CDATA[<p>I found an interesting blogging idea today to simply write down 5 of the things I&rsquo;ve been thinking about lately. Like Nadia, my ambitions for my blogging far exceed my capacity. However, as with most skills, increasing capacity comes through excercising such capacity as already exists.  So I&rsquo;m going to try to at least once a week, write down a list of the 5 things that have been on my mind during that past week.</p>
+
+<ol>
+<li>Robots vs Sweatshops: I&rsquo;ve been hearing a lot about the automation being a driver of the current depression in good job creation and the ails of the middle class. However, it occurs to me that a lot of our consumption is made by hand, just in parts of the world where labor is cheap. Maybe that growth of emerging middle classes is having a downward pull on middle class wages in places that were previously more competitive markets for manufacturing?</li>
+<li>Rest vs Decay: I&rsquo;ve noticed that when I&rsquo;m not &lsquo;working&rsquo; (whether on projects or errands or my employment), I fall into one of two stats: rest or decay. In my rest state, I emerge, rejuvenated and energized, whereas in my decay state I emerge - well actually I don&rsquo;t emerge, I just continue to be in a low energy, lethargic state. I still haven&rsquo;t fully explored the difference between the two.</li>
+<li>Process and Scale - There is a sense that small teams and individuals have an advantage over large organizations because they are more agile and have less process and formality. I wonder though if that might be backwards. Because they are small they can actually have much <em>more</em> process and ensure a much higher degree of devotion to tight and agile development cycles. Maybe the real problem at scale for organizations is not lack of process but the difficulties in actually doing it correctly.</li>
+<li>Improvement and measurement: Not much to say here other than the observation that you can&rsquo;t improve what you can&rsquo;t measure.</li>
+<li>Philosophies of blogging: what exactly am I trying to achieve with my writing? Am I trying to make factually based claims that I require research to do? I think thats not usually the case. More often I&rsquo;m trying to structure my thoughts and create paradigms and frameworks for more effectively thinking about problems I and others face given imperfect information.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Life&#39;s Too Short to Work at a Boring Company]]></title>
+    <link href="/posts/lifes-too-short-to-work-at-a-boring-company/"/>
+    <id>/posts/lifes-too-short-to-work-at-a-boring-company/</id>
+    <published>2013-10-09T12:34:00-08:00</published>
+    <updated>2013-10-09T12:34:00-08:00</updated>
+    <content type="html"><![CDATA[<p>Note: This is an opinion piece that I wrote for the Amherst Student school newspaper.  The original post can be found <a href="http://amherststudent.amherst.edu/?q=article/2013/10/09/lifes-too-short-work-boring-company">here</a>.</p>
+
+<p>This is the time of year when I miss Amherst the most. The few orange or yellow trees I see along the road are a sad imitation of the colors that radiate in the hills of the Pioneer Valley. I am now far from that place, here in a different valley — one known more for silicon and software than puritans and poets. I recall my last autumn in Amherst, when I wondered what I was going to do with this liberal arts education in the dreaded “real world.” There were all sorts of companies, schools, fellowships and internships wooing seniors throughout the year, but the path I chose did not have any career fairs or pamphlets promoting it. I would like to advocate the “unpath” of entrepreneurship, for which, I believe, Amherst grads are uniquely suited.</p>
+
+<p>At the time, I thought that I wanted to go into non-profits. After four years of classes, I had no desire to go on to yet more schooling, and I was suspicious of the business world. Wasn’t that all just greed and, um, more greed? During the financial crisis, I ended up spending several months in Sierra Leone, volunteering with a non-profit (OneVillage Partners) that used microloans to help bring self-sufficiency to rural farmers. With a microloan, a farmer could sell his cocoa for a better price and send his kids to school. With wealthier farmers, the government would be able to raise enough taxes to pay for roads and police and clamp down on bribes and corruption.</p>
+
+<p>It was there, in the midst of the biggest meltdown of capitalism in a generation, that I came to a shocking realization: business can be a social good. Fundamentally, businesses are supposed to create value — for the owners, for the employees and for the customers.</p>
+
+<p>This totally changed my perspective. Since that trip, I have embedded myself deeply in the start-up culture in the Silicon Valley. I’ve seen start-ups and met people, who use businesses as powerful tools to make a huge, positive impact on the world. Undoubtedly, entrepreneurship is something that Amherst uniquely prepares its graduates to do.</p>
+
+<p>From orientation until commencement, we were told that the liberal arts education was not just about learning, but learning how to learn. Amherst doesn’t just teach facts, but how to synthesize ideas and think creatively about problems. This is exactly the challenge that a founder or early start-up employee faces every day! Almost by definition, every problem a fledgling company faces has never been dealt with before. How can ScienceExchange better connect researchers with labs? How can OpenGov promote more efficient municipal governments? How does Minerva Project bring the college into the 21st century? No one really knows the answers to these questions, including the founders and employees of the aforementioned companies themselves. However, they are continually in the process of discovering those answers and figuring out how to create that value they see lacking in the world.</p>
+
+<p>I can hear the question through your head, through the page in your hand and back to my computer: Is entrepreneurship worth a try?</p>
+
+<p>Statistically, most companies fail. With a little bit of seed-funding, a founder can make enough of a salary to live on, but it still seems that for all the work involved, there is a lot of risk in playing the start-up game. For most people, start-ups are, quite honestly, not a particularly good way to get rich.</p>
+
+<p>Start-ups are much better suited for people who want to do them for their own sake. Aside from the value created by the business, start-ups continue the learning experience beyond the classroom. You learn planning, leadership and communication skills. You also learn how industries, people and organizations work. Perhaps, most importantly, you learn that those industries, practices and organizations can be affected and changed. You also learn to work with people firsthand and in-depth. Your co-founders and co-workers are a unique sort of family, strongly bonded together by experience.</p>
+
+<p>So what’s next? How does one actually explore this career path? The best way to get involved is to get plugged into a community of like-minded people. I hear that Amherst has an entrepreneurship club now. Go join! Also, go to a StartupWeekend and make a startup in a 52 hour period. Sign up for StartupDigest in your area and find start-up events in your hometown (full disclosure: I am a StartupDigest curator). If you have a great idea, apply to YCombinator or 500Startups.</p>
+
+<p>The most important thing you can do to prepare for the start-up world is something that is not limited to this or any career path: don’t be satisfied with how the world is. Change it. Mold it. Make it better.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Groklaw Is Shutting Down]]></title>
+    <link href="/posts/groklaw-is-shutting-down/"/>
+    <id>/posts/groklaw-is-shutting-down/</id>
+    <published>2013-08-20T09:09:00-08:00</published>
+    <updated>2013-08-20T09:09:00-08:00</updated>
+    <content type="html"><![CDATA[
+
+<p>I am deeply saddened to learn that the tech legal blog <a href="http://groklaw.net/">Groklaw.net</a> is ceasing operations due to concerns about the security of their email.  </p>
+
+<blockquote>
+<h3 id="the-conclusion-i-ve-reached-is-that-there-is-no-way-to-continue-doing-groklaw-not-long-term-which-is-incredibly-sad-but-it-s-good-to-be-realistic-and-the-simple-truth-is-no-matter-how-good-the-motives-might-be-for-collecting-and-screening-everything-we-say-to-one-another-and-no-matter-how-clean-we-all-are-ourselves-from-the-standpoint-of-the-screeners-i-don-t-know-how-to-function-in-such-an-atmosphere-i-don-t-know-how-to-do-groklaw-like-this"><em>&hellip;the conclusion I&rsquo;ve reached is that there is no way to continue doing Groklaw, not long term, which is incredibly sad. But it&rsquo;s good to be realistic. And the simple truth is, no matter how good the motives might be for collecting and screening everything we say to one another, and no matter how &ldquo;clean&rdquo; we all are ourselves from the standpoint of the screeners, I don&rsquo;t know how to function in such an atmosphere. I don&rsquo;t know how to do Groklaw like this.</em></h3>
+</blockquote>
+
+<p>I am sympathetic to PJ here.  Email has always been terribly insecure and the shutdown of the two secure email hosting sites (Lavabit and Silent Circle) due to government tampering has been a big blow for those who wish their communication to be between them and no one else.</p>
+
+<p>However.</p>
+
+<p>I also disagree with this decision quite vehemently.  For service providers who would be unable to provide their services in an environment of snooping, I understand, but this is fundamentally an issue of law and of politics for which communication, audience, and expertise are going to be of utmost importance.  Groklaw embodies all three and would have been a valuable allied in the upcoming (and protracted) fight that these revelations are going to involve.  </p>
+
+<p>All of this has come to light through the self sacrifice of individuals: Edward Snowden, Glen Greenwald, David Miranda. However, to win this, we do not need more principled suicides.  We need a different sort of sacrifice: to know that they are listening and to speak anyway.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[The Abyss From Which There Is No Return]]></title>
+    <link href="/posts/the-abyss-from-which-there-is-no-return/"/>
+    <id>/posts/the-abyss-from-which-there-is-no-return/</id>
+    <published>2013-08-20T08:53:00-08:00</published>
+    <updated>2013-08-20T08:53:00-08:00</updated>
+    <content type="html"><![CDATA[
+
+<h2 id="the-big-deal-is-simply-this-once-you-allow-the-government-to-start-breaking-the-law-no-matter-how-seemingly-justifiable-the-reason-you-relinquish-the-contract-between-you-and-the-government-which-establishes-that-the-government-works-for-and-obeys-you-the-citizen-the-employer-the-master-and-once-the-government-starts-operating-outside-the-law-answerable-to-no-one-but-itself-there-s-no-way-to-rein-it-back-in-short-of-revolution">&ldquo;The big deal is simply this: once you allow the government to start breaking the law, no matter how seemingly justifiable the reason, you relinquish the contract between you and the government which establishes that the government works for and obeys you, the citizen—the employer—the master. And once the government starts operating outside the law, answerable to no one but itself, there’s no way to rein it back in, short of revolution.&rdquo;</h2>
+
+<p><a href="https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_nsa_the_abyss_from_which_there_is_no_return">John Whitehead</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[You Can&#39;t Have No Process]]></title>
+    <link href="/posts/you-cant-have-no-process/"/>
+    <id>/posts/you-cant-have-no-process/</id>
+    <published>2013-08-19T12:00:00-08:00</published>
+    <updated>2013-08-19T12:00:00-08:00</updated>
+    <content type="html"><![CDATA[<p>Process is a concrete instance of that effervescent multiplier in a startup: execution.  It certainly is not execution itself, but is a repeatable (and repeating) building block of a current execution strategy &ndash; especially in a particular aspect of the business (sales, dev, market validation, etc).  It is the day-in and day-out patterns of behavior that your team makes into habit until they are virtually invisible. </p>
+
+<p>A lot of teams think that you heavy process is bad and os they aim to be &lsquo;lightweight&rsquo; saying things like &lsquo;we don&rsquo;t want to come up with a process to slow us down, let&rsquo;s just do stuff&rsquo;.  This is half right.  A heavy process is unnecessary and distracting early on and most processes you make up beforehand are going to suck for your actual workflow, becoming a perfect example of premature optimization.  </p>
+
+<p>That being said, there isn&rsquo;t any such thing as &lsquo;no process&rsquo;.  Regardless of whether you say it or not, you&rsquo;re going to fall into a  routine that will end up being your process. This is a relief to know at the beginning.  You just start off with your Minimum Viable Process and don&rsquo;t have to get bogged down planning one out.  (I think it is this process planning more than the process itself that gives process a bad name in really early stage teams).  However, like your product, sales and every other aspect of your business, you need to iterate on that process to improvement.  This is where thinking &lsquo;we have no process&rsquo; is dangerous.  How can you self reflect and improve something you don&rsquo;t acknowledge is there?  </p>
+
+<p>It is helpful to reflect and discuss your processes with your team every so often to figure out what is working, what is not working and how to move forward.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Walkers]]></title>
+    <link href="/posts/walkers/"/>
+    <id>/posts/walkers/</id>
+    <published>2013-07-22T15:00:00-08:00</published>
+    <updated>2013-07-22T15:00:00-08:00</updated>
+    <content type="html"><![CDATA[<p><img src="/static/walkers.jpg" alt="Walkers" /></p>
+
+<p>When I was in elementary school, there was a division among students based on the mode of transportation used to get to school.  Those who took the bus were called &lsquo;Riders&rsquo; and those who walked to school were &lsquo;Walkers&rsquo;. As I lived so that our backyard adjoined the schoolyard, I was, naturally a walker.  The first week or so, my mom would walk with me to school, but after that I was pretty much on my own for the five minute stroll.  </p>
+
+<p>We moved a few times when I was in middle school but again when I was in high school, we lived just down the street and again, rather than drive (which actually took longer due to traffic), I walked to school.  Sometimes it was crisp and dry in the autumn.  Sometimes it was late at night after a rehearsal. Sometimes it was super early for a pre-school activity.</p>
+
+<p>I walked to my first job after college. (College, of course was a walking bonanza).  I couldn&rsquo;t afford a car and was working at the college so it seemed to make sense to just get an apartment close by.  I&rsquo;d walk back from work, parties, concerts and dates. </p>
+
+<p>When I look back at my life, I realize that the vast majority of my transportation has been walking (at least by time, probably not by distance). It&rsquo;s never really been a form of exercise or something I do for environmental reasons (though I&rsquo;m happy it has those benefits). It&rsquo;s more that once you get used to the idea of walking somewhere, distances don&rsquo;t seem so great.  It may take a bit longer, but it&rsquo;s also the simplest and most straightforward way to go somewhere.</p>
+
+<p>There is a sort of meditative quality to walking.  It&rsquo;s a time where my mind goes free and makes crazy connections between disparate ideas.  It&rsquo;s a time to call up a friend I haven&rsquo;t talked to in a while.  It&rsquo;s a time to reflect on the wind and sky and it&rsquo;s denizens.  </p>
+
+<p>I&rsquo;m glad that I&rsquo;m a walker.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Terminals: Finally a New Hope]]></title>
+    <link href="/posts/terminals-finally-a-new-hope/"/>
+    <id>/posts/terminals-finally-a-new-hope/</id>
+    <published>2013-07-19T09:05:00-08:00</published>
+    <updated>2013-07-19T09:05:00-08:00</updated>
+    <content type="html"><![CDATA[<p>I just wanted to make a quick follow-up to my previous post ranting about the state of modern terminal emulators.  Hacker News recently had a link to <a href="http://finalterm.org/">an awesome project called FinalTerm</a>. I can&rsquo;t say that I think it&rsquo;s perfect (not thrilled exactly about terminal autocompletion &ndash; that should be the shell&rsquo;s business), but it&rsquo;s the most promising terminal improvement I&rsquo;ve seen in a long time.  Sadly there&rsquo;s no OSX support on the horizon.</p>
+
+<p>Just to be clear regarding my previous rant. I know all the tricks for intermingling the system clipboard with the shell (xclip on linux and pbcopy/pbpaste on OSX) but these to me seem hacky to me and I&rsquo;ve had varying success with them depending on the display manager i&rsquo;m using. Also, this seems to me to be properly the domain of the emulator, which is the ambassador from GUI land with which I visit TTY land.  More practically, all of those tricks only work in the command shell (bash, zsh) and fall apart when I actually need them in other shells (irb, the python repl, posgres, etc).</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Humility, Technical Skills and Context]]></title>
+    <link href="/posts/humility-technical-skills-and-context/"/>
+    <id>/posts/humility-technical-skills-and-context/</id>
+    <published>2013-07-17T08:45:00-08:00</published>
+    <updated>2013-07-17T08:45:00-08:00</updated>
+    <content type="html"><![CDATA[<p>When I started blogging, I imagined that my blog would end up like many of those that I follow and value: filled with little technical tidbits, tutorials and analyses.  Starting off out of college, I recall being in awe at those who knew All The Things and would so generously share them with the world.  At that time, I was reading blogs more about how to set up a Wordpress site or install Google Analytics.  So, as my career progressed, I quickly learned that those people were not the real repositories of knowledge, as that sort of stuff was easy.  The real heroes were those who could tell you how to extend Wordpress with modules and plugins As you might imagine, this pattern continued. My reading focus grew from Wordpress to php, from php to Java, from java to Ruby &amp; Python, from programming to Unix tools, from basic tools like the Ubuntu Software Center to apt and aptitude, from Gedit, to Gnome Terminal, from Bash to Zsh and so on.  </p>
+
+<p>As my technical skills developed and my familiarity and comfort with technical systems grew, so did my reading materials.  Meanwhile, the things that I did know and was comfortable with, I began to take for granted.  What I was doing was defining context.  In the context of geeky science majors just out of college, setting up your own website, felt pretty edgy.  Once I defined myself as a technical professional, setting up memcached clusters, seemed pretty ordinary and blogging about it would be rather pedantic.</p>
+
+<p>I&rsquo;m not exactly sure where I&rsquo;m going with this other than to remind myself to take stock of how I&rsquo;ve grown, where I am and what I&rsquo;ve learned and to not forget to pass it along to that next generation.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Grand Expeditionary Forces]]></title>
+    <link href="/posts/grand-expeditionary-forces/"/>
+    <id>/posts/grand-expeditionary-forces/</id>
+    <published>2013-07-13T14:42:00-08:00</published>
+    <updated>2013-07-13T14:42:00-08:00</updated>
+    <content type="html"><![CDATA[<p><img src="/static/grand-expeditionary-forces.jpg" alt="Grand Expiditionary Forces" /></p>
+
+<p>​I played a lot of Risk as a kid (well, actually as a teenager and adult too) and observed the emergent strategies that players take in that game.  Most players, after the first few terms tend to be holed up in one area of the board: Australia, South America, Europe.  They don&rsquo;t have a continent per say, but they at least control a foothold in an area, which they defend vigorously, dumping all their armies on every term.  This means that after a few terms the game has already fallen into a <em>de facto</em> stalemate.</p>
+
+<p>The people who are most successful at the game though follow a different strategy.  In addition to their stronghold, they create a &lsquo;Grand Expeditionary Force&rsquo;: A group of armies cut off from the main stronghold which conquer new territory and explore new strongholds somewhere else on the map.  This allows them to both hold on to a stronghold that protects their defensive positions while still exploring and growing their influence.  Sometimes the Grand Expeditionary force doesn&rsquo;t work out at all, but they&rsquo;ve built enough cards while weakening the other players that it still pays off.</p>
+
+<p>Businesses also need Grand Expeditionary Forces.  In the early stage, arguably that&rsquo;s all that a business is.  Even after the initial traction and validation, a company still needs to put some of its resources towards exploring other options and avenues.  I&rsquo;d argue this is the most important time to explore (just like a late game expeditionary force isn&rsquo;t as useful as one early on) because a young company has no idea the size of the hill it&rsquo;s climbing.  It&rsquo;s all too easy to get some early traction and immediately try to start scaling an idea rather than a business. Ideas don&rsquo;t scale; businesses do.</p>
+
+<p>I think it&rsquo;s still important at the largest levels and the companies that are most successful in the long run &ndash; Google, IBM , AT&amp;T (in the mid century &ndash; not the current iteration &ndash;also Xerox) &ndash; spend time exploring crazy options.  If you don&rsquo;t disrupt your market, someone else will.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[The Criminal Nsa]]></title>
+    <link href="/posts/the-criminal-nsa/"/>
+    <id>/posts/the-criminal-nsa/</id>
+    <published>2013-06-28T11:08:00-08:00</published>
+    <updated>2013-06-28T11:08:00-08:00</updated>
+    <content type="html"><![CDATA[
+
+<p>Great <a href="http://www.nytimes.com/2013/06/28/opinion/the-criminal-nsa.html?pagewanted=1&amp;_r=0">Op-Ed piece</a> in the New York Times</p>
+
+<blockquote>
+<h3 id="the-n-s-a-has-intentionally-acquired-information-it-is-not-allowed-to-have-even-under-the-terrifyingly-broad-auspices-of-the-fisa-amendments-act">&ldquo;The N.S.A. has intentionally acquired information it is not allowed to have, even under the terrifyingly broad auspices of the FISA Amendments Act.&rdquo;</h3>
+</blockquote>
+
+<p>Remember that the Patriot Act was highly controversial when it was originally passed even in the form that it was originally interpretted.</p>
+
+<blockquote>
+<p>Leave aside the Patriot Act and FISA Amendments Act for a moment, and turn to the Constitution.</p>
+
+<p>The Fourth Amendment obliges the government to demonstrate probable cause before conducting invasive surveillance. There is simply no precedent under the Constitution for the government’s seizing such vast amounts of revealing data on innocent Americans’ communications.</p>
+
+<p>The government has made a mockery of that protection by relying on select Supreme Court cases, decided before the era of the public Internet and cellphones, to argue that citizens have no expectation of privacy in either phone metadata or in e-mails or other private electronic messages that it stores with third parties.</p>
+
+<p>This hairsplitting is inimical to privacy and contrary to what at least five justices ruled just last year in a case called United States v. Jones. One of the most conservative justices on the Court, Samuel A. Alito Jr., wrote that where <em>even public information about individuals is monitored over the long term, at some point, government crosses a line and must comply with the protections of the Fourth Amendment</em>. That principle is, if anything, even more true for Americans’ sensitive nonpublic information like phone metadata and social networking activity.</p>
+</blockquote>
+
+<p>One of the greatest things about the Constitution is that, unlike most of our contemporary laws, it is clear and straightforward.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[The Poison Is Secrecy]]></title>
+    <link href="/posts/the-poison-is-secrecy/"/>
+    <id>/posts/the-poison-is-secrecy/</id>
+    <published>2013-06-25T09:29:00-08:00</published>
+    <updated>2013-06-25T09:29:00-08:00</updated>
+    <content type="html"><![CDATA[
+
+<h3 id="why-we-re-all-conspiracy-theorists-now"><em>Why we’re all conspiracy theorists now</em></h3>
+
+<p><em>(This is a cross-post from my first post on <a href="https://medium.com/surveillance-state/7cc646d3ac6d">Medium</a>)</em></p>
+
+<p>In the past few weeks since the first release of the Verizon phone record subpoena and the subsequent releases of PRISM and other covert federal activities, much of the debate has focused on the particulars of the programs — whether they are legal/illegal, whether they go too far, how they relate to historical surveillence systems, and so on.**</p>
+
+<p>Usually the debate does not get very far in such conversations. One side breathlessly worries about how deep and pervasive the surveillence is and how the imposition impinges upon our civil liberties. The other side urges caution, pointing out that not all facts are known. However, in this response, lies the root of the problem: secrecy. This is the root of the scandal, and the root of a potent toxin that I think is much more dangerous than whatever actually may or may not be happening at the NSA.</p>
+
+<p>The root of the scandal is the secrecy that all this has been clouded in. Yes, it was strongly suspected that the government was carrying out large scale surveillence on Americans. Yes there was legislation passed that had the potential to be misused for large scale spying. So, in a sense, the NSA leaks are not a _surprise_ to anyone who has been paying attention. However, the revelations are still important because they are hard proof of the abuses. It is one thing to know your neighbor is creepy, but quite another to actually see the bodies in the basement.</p>
+
+<p>It is important to note just how pervasive the secrecy is around this. The programs are secret. The courts are secret. The subpeona’s are secret. Even the rulings on why this is legal are secret. That is to say nothing of the ancillary secrecy that has surrounded this administration (extrajudicial killings, drone programs, secret no-fly lists, secret trials for whistleblowers like Bradley Manning). Literally all that we have to go on is the administration’s admonition that we _trust_them.</p>
+
+<p>In some sense, this has always been the case with covert operations. They are by nature secret and some level of trust is necessary for their existence. However, in this case, that trust has been entirely eroded. These programs were not supposed to exist. The president ran (twice) on a platform of openness and rule of law. The programs that we did know about were supposed to be targeted, limited in scope and direct for immediate threats. Instead, we find that they were broad, indiscriminate and hidden.</p>
+
+<p>The poison of this secrecy is already visible. We are willing to believe just about anything now. Everyone is now a conspiracy theorist. Is the NSA recording voice calls? I wouldn’t be surprised. Are some people on the no-fly list for data in this program? Probably. Is there evidence that is secret because it covers up government abuse? Highly likely. As the <a href="http://www.nytimes.com/2013/06/07/opinion/president-obamas-dragnet.html?pagewanted=all&amp;_r=0">_New Yorks Times_ put it</a> “The administration has now lost all credibility on this issue.”</p>
+
+<p>Without truth, there is not even the possilibity of democracy, justice or freedom. There is simply a sort of gallows-trust born out of fear and impotence.</p>
+
+<p>Welcome to the land of the free and the home of a brave new world.</p>
+
+<p>** I am strongly on the side of privacy and civil liberties. However, I am also a realist and understand that as more and more commerce, communication and even property moves to this space, legal frameworks need to be re-understood in this new context. It may be that sovereignty extends into cyberspace and countries have the right to form an internet border patrol. I’m dubious, but it’s not crazy.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Rocket Powered Bicycles]]></title>
+    <link href="/posts/rocket-powered-bicycles/"/>
+    <id>/posts/rocket-powered-bicycles/</id>
+    <published>2013-05-24T12:02:00-08:00</published>
+    <updated>2013-05-24T12:02:00-08:00</updated>
+    <content type="html"><![CDATA[
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/FVT3e6UBHMo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>I gave a talk back in February on how to avoid under or over engineering your product. I was heavily inspired for some of these ideas by my good friend <a href="http://preetanand.com/">Preet Anand</a>.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Terminals: A Rant]]></title>
+    <link href="/posts/terminals-a-rant/"/>
+    <id>/posts/terminals-a-rant/</id>
+    <published>2013-03-14T14:27:00-08:00</published>
+    <updated>2013-03-14T14:27:00-08:00</updated>
+    <content type="html"><![CDATA[<p>First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&rsquo;s usually in the foreground. Honestly, if it weren&rsquo;t for the fact that most of my work is implemented in the browser (and that the best <a href="http://blog.framebase.io/post/43973262180/the-best-programmers-are-the-quickest-to-google">developers are the first to Google</a>), I could probably ditch the GUI entirely.</p>
+
+<p>However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century. I particularly want to focus on features that would make terminal emulators better <em>for experts</em>. Most &lsquo;features&rsquo; on terminals seem to be for making it easier for newbies to get started with the terminal, rather than to make the terminal better once they&rsquo;ve mastered it.</p>
+
+<p>I would like to see more than 256 color support in the terminal. This one is a no brainer.</p>
+
+<p>Terminals should have better integration with the system clipboard. Why is selecting text so difficult. I should be able to use the system clipboard, not just for inputting and selecting text, but be able to pipe and modify that text.</p>
+
+<p>Terminals should integrate better with the system content types. Apple has done some good work here with the <code>open</code> command. Linux should take some inspiration here.</p>
+
+<p>I realize there are some tools out there that do some of this, but these seem to be features that should really be part of the terminal itself, not some half-baked weekend side project that never gets updated.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Thoughts on Thinking About the End of the World]]></title>
+    <link href="/posts/thoughts-on-thinking-about-the-end-of-the-world/"/>
+    <id>/posts/thoughts-on-thinking-about-the-end-of-the-world/</id>
+    <published>2012-12-21T14:05:00-08:00</published>
+    <updated>2012-12-21T14:05:00-08:00</updated>
+    <content type="html"><![CDATA[<p>Like many others this week, my Facebook and Twitter feeds have been full of &lsquo;end of the world&rsquo; posts and my social aggregation sites have been full of doomsday sales and promotions. Also, like so many, I have responded to such discussion with a roll of the eyes. Clearly the world is not going to end based on some prophecy or misunderstanding of an ancient calendar. Why waste our mental energies on such nonsense.</p>
+
+<p>I wonder, though, if there is more going on here than simply widespread superstition. I know my friends and circles and though there is a wide distribution of intellectual abilities and social and political persuasions, I think I can accurately say that none of them actually believes that there is any chance of a civilization-ending event this week or this year.</p>
+
+<p>There is very little room in contemporary society for us to express our existential fears. Yes, depending on our political persuasion, we may worry about global warming, or nuclear arms, or terrorism or the collapse of traditional American values, but we tend to see those more as problems that require solving rather than a true out-of-control doomsday scenario.</p>
+
+<p>Nevertheless, as we struggle through live in the shadow of our own transience, we also realize that our world is similarly transient. Through some means, it will not last forever and some subset of our progeny will have to deal with that end.</p>
+
+<p>We do not like to ponder such fears, but they haunt us and sometimes an ancient portent of doom allows us the freedom to obliquely grapple with them.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Incremental Decision Making]]></title>
+    <link href="/posts/incremental-decision-making/"/>
+    <id>/posts/incremental-decision-making/</id>
+    <published>2012-11-18T04:00:00-08:00</published>
+    <updated>2012-11-18T04:00:00-08:00</updated>
+    <content type="html"><![CDATA[<p>I found <a href="http://www.nytimes.com/2012/09/30/jobs/follow-a-career-passion-let-it-follow-you.html?_r=0">this article</a> in the New York Times a while ago and it got me to thinking about how we actually make decisions and the different philosophies that we use to govern our decision making process. This is vitally important to start-ups as 80% of the work amounts to making decisions. The funny thing about those decisions is that most of them are inconsequential, but a few of them turn out to be vitally important. Unfortunately, we usually do not know ahead of time which decisions are the important ones and which aren&rsquo;t. This means that each and every decision could turn out to be extremely important down the road &ndash; a paralyzing situation.</p>
+
+<p>I think the solution to this is to take an empirical approach to decisions. As much as possible, don&rsquo;t make big decisions all at once, in some cases you have to (take this investor on or not, hire this person or not), but as much as possible, but break them into processes that you can guide as they happen rather than that lock you in.</p>
+
+<p>This is what I mean by &lsquo;empirical decisions&rsquo;:</p>
+
+<ol>
+<li>Make a hypothesis of what you think you should do and why</li>
+<li>Run experiments to test those hypotheses</li>
+<li>Compare the results of your experiments with your hypotheses with your experiments and use that to revise your hypotheses.</li>
+</ol>
+
+<p>Each of these steps is actually vitally important. It is not enough to simply run experiments without first creating some sort of framework as to what those experiments are testing. And unless you actually compare the results wo your hypotheses and use them to refine your hypotheses, you are just going to be forever shooting in the dark.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Users, Customers and Community]]></title>
+    <link href="/posts/users-customers-and-community/"/>
+    <id>/posts/users-customers-and-community/</id>
+    <published>2012-11-14T00:04:00-08:00</published>
+    <updated>2012-11-14T00:04:00-08:00</updated>
+    <content type="html"><![CDATA[<p><a href="http://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users">Jack Dorsey posted</a> last week on reconsidering the use of the term &lsquo;user.&rsquo; He proposes replacing it with the word &lsquo;customer&rsquo; in the general sense, and &lsquo;buyer&rsquo; and &lsquo;seller&rsquo; in the specific Square context. While I agree in the general sense that the term &lsquo;user&rsquo; is somewhat disparaging (though not as bad as some terms I&rsquo;ve heard &ndash; like &lsquo;muggle&rsquo;) , I think that replacing the term with &lsquo;customer&rsquo; is a step backwards. It focuses too much attention on the actual money transaction part of the person&rsquo;s interaction with the product, which obscures all the more important characteristics of the person.</p>
+
+<p>The problem with the term &lsquo;user&rsquo; is that it&rsquo;s too simple. It pushes us into a model where we think of company, product and user. In reality, we have multi-tiered communities that interact with our products. At <a href="http://startupdigest.com">StartupDigest</a> we had Curators, subscribers, VIPs to name just a few. At <a href="http://grouptie.com">GroupTie</a> we have members, organizers and groups. At bigger sites like Facebook and Google, they have advertisers, developers, members, users and so on. There are too many to name. It becomes very difficult very quickly to think or talk about them in general without resorting to a word like user. It becomes even more difficult because with these various roles comes an interplay between them. Doing something to improve the advertiser experience, may hurt the member experience. Making it easier to buy may hurt the seller.</p>
+
+<p>I think the solution actually is to forget about trying to use an archetypal single individual as our model for thinking about how our product interacts with our community. In fact, that is the word that we should use: community. Companies have communities of people that interact with them. They have different use-cases and different interaction models and no one word will describe them. What we need to do is define our community, define the roles that exist within that community (including the role of the company) and then determine what is best for that community.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[What&#39;s the Deal With .*rc files?]]></title>
+    <link href="/posts/whats-the-deal-with-star-rc-files/"/>
+    <id>/posts/whats-the-deal-with-star-rc-files/</id>
+    <published>2012-11-11T20:35:00-08:00</published>
+    <updated>2012-11-11T20:35:00-08:00</updated>
+    <content type="html"><![CDATA[<p>Modern POSIX operating systems are littered with ._rc and rc._ files. Apparently these stand for &lsquo;run commands&rsquo; and the term actually dates all the way back to 1965 on the MIT CTSS system (the precursor to Multics which was the precursor to Unix).</p>
+
+<p>I love the overwhelming weight of history that you find in a *nix system.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Upside Vs Downside Risk]]></title>
+    <link href="/posts/upside-vs-downside-risk/"/>
+    <id>/posts/upside-vs-downside-risk/</id>
+    <published>2012-11-08T23:29:00-08:00</published>
+    <updated>2012-11-08T23:29:00-08:00</updated>
+    <content type="html"><![CDATA[<p>Risk is usually discussed in one dimensional terms, as though it is a scalar that simply has a value in a particular situation. Sky diving is risky. Leaving the root MySQL account without a password is risky. Starting a company is risky. I think this is a mis-modeling of how risk works.</p>
+
+<p>What is risk? Fundamentally, it is simply a probability &ndash; the chance that a particular outcome will manifest itself in a given situation. However, it passes a value judgment too. We don&rsquo;t talk about the risk of winning a particular hand in poker or the risk of being blue-eyed vs brown-eyed. Risk is therefore the probability of a negative or undesirable outcome.</p>
+
+<p>This is where the aforementioned &lsquo;risky&rsquo; concept comes in. However, we need to be smarter about how we define that undesirable outcome. Our minds are attuned to very strongly weigh bad things that could happen to us. We generally are much worse at thinking about missing out on good things that could happen to us.</p>
+
+<p>I get asked a lot by friends and family if I think it risky working for a start-up rather than a big company. This is focusing on the &lsquo;bad thing that could happen&rsquo; scenario. I call this downside risk.. It misses the upside risk that comes from working at a big company and missing the opportunities of a start-up. As an engineer, I think that I have much higher upside risk than downside risk. There will always be jobs and demand for engineering, but the specific jobs that I choose to work on are the difference between a decent salary and an awesome payout.</p>
+
+<p>We need to think more about risk in this way. Don&rsquo;t just think about what could go wrong, but what you might be passing up by avoiding that negative outcome.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Success Is 80% Not Screwing Up]]></title>
+    <link href="/posts/success-is-80-percent-not-screwing-up/"/>
+    <id>/posts/success-is-80-percent-not-screwing-up/</id>
+    <published>2012-10-28T14:01:00-08:00</published>
+    <updated>2012-10-28T14:01:00-08:00</updated>
+    <content type="html"><![CDATA[<p>There was a poster in the the hallway of my middle school that said &lsquo;Shoot for the Moon: Even if you miss, you&rsquo;ll land among the stars.&rsquo;</p>
+
+<p>I always hated that poster.</p>
+
+<p>My cynical eighth grade self, thought &ldquo;It should read: &lsquo;Shoot for the Moon: If you miss, you&rsquo;ll slowly suffocate to death in the cold loneliness of space.&rsquo; &ldquo; Cynicism aside, it seemed patently false. Success wasn&rsquo;t about shooting for the moon, but doing your homework, studying for tests and not being a dick to your friends.</p>
+
+<p>As I&rsquo;ve gotten older, I think I understand the idea behind the poster a lot better. Those without high ambitions fail to achieve high results. However, I think that my adolescent objections still stand. While it&rsquo;s all very well and good to &lsquo;aim high,&rsquo; it still matters quite a bit exactly what you are aiming at. For example, if you start a company, it may fail, but you will still have learned valuable skills and have new connections and street-cred. However, if you drop out of school to try and become, say, a pro baseball player, your chances of success are far lower and you are left with far fewer options if you do not succeed with your primary goal.</p>
+
+<p>To put it in tersms of start-ups, it&rsquo;s hard to see which companies are going to be wildly successful, but, generally, it&rsquo;s much easier to see which are definitely not going to be. Over confidence, poor thinking of the market, over-reliance on magical &lsquo;technical&rsquo; solutions, over-reliance on name-dropping connections are all bad signs. What is amazing is that if you hang around Silicon Valley or any other large tech community long enough, you start to see the exact same mistake being made over and over again.</p>
+
+<p>This leads me to believe that most companies and people fail to succeed because they continue to make the simple fundamental mistakes. I think this is why we see people that &lsquo;create their own luck.&rsquo; Once you&rsquo;ve mastered the art of not screwing up, success is simply a matter of searching through that remaining 20% to see what sticks.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Space Colony Art From the 1970s]]></title>
+    <link href="/posts/space-colony-art-from-the-1970s/"/>
+    <id>/posts/space-colony-art-from-the-1970s/</id>
+    <published>2012-06-12T05:00:00-08:00</published>
+    <updated>2012-06-12T05:00:00-08:00</updated>
+    <content type="html"><![CDATA[<p><a href="http://publicdomainreview.org/2011/08/23/space-colony-art-from-the-1970s/">Link</a></p>
+
+<p>I remember seeing these pictures in a book in my local library and being absolutely enamored of them. The juxtaposition of New England-style countryside inside of gleaming, bright cylinders looked like the most wonderful world to my young eyes. I recently re-watched Stanley Kubrik&rsquo;s 2001: A Space Odyssey and was amazed how it, like this, despite how dated it is, still is my vision of &lsquo;the future&rsquo;</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[I Created a Monster]]></title>
+    <link href="/posts/i-created-a-monster/"/>
+    <id>/posts/i-created-a-monster/</id>
+    <published>2012-06-01T06:47:00-08:00</published>
+    <updated>2012-06-01T06:47:00-08:00</updated>
+    <content type="html"><![CDATA[<p>Sometime in April of 2012, I came into work to find out that my crazy co-workers had, over a bottle of scotch, spent the previous evening throwing together an experimental dating site called CupidCurated. I admired their audacity and congratulated them for pulling it off and then chuckled to myself as I went back to &lsquo;real&rsquo; work on <a href="http://startupdigest.com/vip">StartupDigest VIP</a>. You may have <a href="http://www.cupidcurated.com/first-product/">read about this a few weeks ago</a>. This is the story of what comes next and what it really means to build a <em>minimum</em> viable product &ndash; from the engineer who built it.</p>
+
+<p>Two weeks later, I went down to Monterey to visit my in-laws. I had basically forgotten about CupidCurated at this point when I got a phone call late on Sunday evening from <a href="http://mccannatron.com/">Chris McCann</a>. This is when our fastidious editor compiles our event newsletters, so I picked up immediately, thinking something must be wrong with our CMS.</p>
+
+<p>&ldquo;How quickly do you think you can get CupidCurated up?&rdquo;, Chris went straight to the point.</p>
+
+<p>&ldquo;Um&hellip;.&rdquo;</p>
+
+<p>&ldquo;There&rsquo;s a demo day in San Francisco next Wednesday and we&rsquo;d like to show CupidCurated at it.&rdquo;</p>
+
+<p>My heart skipped a beat.</p>
+
+<p>&ldquo;I&rsquo;ll see what I can do&hellip;&rdquo;</p>
+
+<p>So began one of the craziest 9 days of coding of my life. The next morning, I immediately cloned our EC2 stack, forked our master Github repo and started to figure out how I could actually make this all work in 9 days. It&rsquo;s all very well and good to think of dating and recruiting as being parallel interactions, but how do you actually take one and turn it into the other. Could you take OKCupid and turn it into a LinkedIn killer?</p>
+
+<p>The first step was to remove all unnecessary parts: activation, account editing, password resets. These are all key for a real product, but they&rsquo;re just wasting time in a demo. Then, I set Chris and Brendan on the task of re-writing all our copy to be &lsquo;dating-ish&rsquo; rather than &lsquo;recruiting-ish&rsquo;.</p>
+
+<p>There was no way of getting around the core interaction of the application logic. A recruiting product helps companies and engineers meet. A dating site helps girls and guys meet. I made the crazy decision that women would be companies and men would be engineers (well, that one isn&rsquo;t so crazy, I guess). For the demo, the key was to validate the interaction, not the matching. Obviously, in a real product you want to optimize the matches that happen on your site, but for a true MVP, you just need to figure out if it answers the human side of the equation: the interaction, before you optimize the machine side. By Friday, I had a site that actually followed the workflow of a dating site.</p>
+
+<p>The problem was, it still looked like a recruiting site.</p>
+
+<p>The most important part of an MVP is that it needs to <em>feel</em> like a real product. It can be crap on the inside (and believe me, this product was a hodgepodge of hacks, improvisations, and plain old guesses on the inside), but, again, MVPs are about validating the human side of the equation. Will this product match what a human wants out of it? And to that end, it needs to feel real. So, I knuckled down over the weekend on design. I picked <a href="http://www.google.com/webfonts/specimen/Imprima">Imprima</a> for the font as it has a nice, clean, sans serif feel, with a hand-written twist. I found a nice background on <a href="http://subtlepatterns.com">Subtle Patterns</a> and played around with the color scheme to make it feel more Cupid-like.</p>
+
+<p>And you know what? It actually looked like a dating site. It felt like a dating site, but could it actually handle demo day? I was fully prepared to spend the entirety of Life 3.0 huddled in a corner, casting spells of &lsquo;resurrect server&rsquo; through the evening, but it actually handled the load quite nicely, which just goes to show you how useless premature optimization is.</p>
+
+<p>I think MVPs are sometimes hardest on engineers. We&rsquo;re naturally <a href="https://en.wikipedia.org/wiki/Larry_Wall#Virtues_of_a_programmer">lazy</a> and therefore predisposed to the philosophy that if it isn&rsquo;t worth doing right, then it it isn&rsquo;t worth doing at all. However, this turns out to be wasteful as evidenced by the the countless engineers who spend their weekends working on over-designed, under-validated side projects that are never going to get off the ground.</p>
+
+<p>Yes. The demo that I created for Life 3.0 was a monster an adventure, but, you know, life is too short to work at a boring company.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[App Specific Settings for Django]]></title>
+    <link href="/posts/app-specific-settings-for-django/"/>
+    <id>/posts/app-specific-settings-for-django/</id>
+    <published>2012-06-01T05:00:00-08:00</published>
+    <updated>2012-06-01T05:00:00-08:00</updated>
+    <content type="html"><![CDATA[<p>While Django encourages a healthy degree of decoupling in how apps and modules are structured, the settings file can very easily become a monolithic mess. There are some good resources for how <a href="http://tech.yipit.com/2011/11/02/django-settings-what-to-do-about-settings-py/">to divide up settings file between environments</a>, but with a big application, even that can leave you with a mess of configuration settings.</p>
+
+<p>What is particularly annoying in this situation is that many of these settings really just affect one app. For example, I store JavaScript and CSS files specific to each app in <code>app_dir/static/</code> and then use <a href="https://github.com/cyberdelia/django-pipeline">django-pipeline</a> to wrap and compress all the files for deployment. However, Django Pipeline requires you to define <a href="http://django-pipeline.readthedocs.org/en/latest/configuration.html">Groups</a> in your settings.py file. However, since those groups are specific to each app, it seems like they should live with the app, not in the settings file. Adding a css file shouldn&rsquo;t require me to change the settings.</p>
+
+<p>At first I attempted to fix this by putting a settings.py file in each app&rsquo;s directory, but Django doesn&rsquo;t automatically import those files and attempting to do so manually in Django&rsquo;s own settings files lead to all sorts of messy import loops. However, I found a much simpler solution. Simply put the extra settings in the <code>__init__.py</code> file in the app root. This get&rsquo;s imported automatically when the app is installed and those settings will automatically be added to the general settings environment.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Do One Thing (at a Time) and Do It Well]]></title>
+    <link href="/posts/do-one-thing-at-a-time-and-do-it-well/"/>
+    <id>/posts/do-one-thing-at-a-time-and-do-it-well/</id>
+    <published>2012-04-30T05:00:40-07:00</published>
+    <updated>2012-04-30T05:00:40-07:00</updated>
+    <content type="html"><![CDATA[<p>The <a href="https://en.wikipedia.org/wiki/Unix_philosophy">Great Law of Unix</a> and its progeny is to do one thing and do it well. Although Unix programs may have great complexity, they are focused and modular. This has certainly lead to the amazing success of Unix, BSD, Linux and other *nix operating systems in the tech world, but I think that this law is more generally applicable than simply &lsquo;how to write Unix programs.&rsquo;</p>
+
+<p>My <a href="http://chrisburnor.com/deployment-and-tools-guide">previous post</a> is, in essence merely a re-statement of this law. When pushing a release or change to your product, keep your focus. It is far better to make a few changes that will make a big difference, than lot&rsquo;s of meaningless fiddling (Though don&rsquo;t forget that <a href="http://chrisburnor.com/ode-to-the-little-stuff">big and little changes</a> should be measured on their effect on the user&rsquo;s experience, not how much effort they require).</p>
+
+<p>I learned this lesson again today when I was working on my Arch Linux install. I use LinuxMint for my day-to-day computing, but, in the interest of learning more about how Linux is built, I&rsquo;ve been slowly working on getting a usable system on my second partition. Like with code releases, one thing I&rsquo;ve learned is to not try to change too much at once. My initial plan was to build the entire system from scratch in an extreme minimalist style (OpenBox, SLiM, Chrome and a Terminal) but I quickly found that there is a great deal more complexity in doing that than I had anticipated and I&rsquo;ve had much more success since switching to XFCE and more &lsquo;mainstream&rsquo; technologies.</p>
+
+<p>Some day I will probably reduce my system even further, but for now, I&rsquo;ve learned that minimalism is a process of taking away more than it is a process of adding the minimum amount possible.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Deployment Tools and Guide]]></title>
+    <link href="/posts/deployment-tools-and-guide/"/>
+    <id>/posts/deployment-tools-and-guide/</id>
+    <published>2012-04-24T05:00:10-07:00</published>
+    <updated>2012-04-24T05:00:10-07:00</updated>
+    <content type="html"><![CDATA[<p>This isn&rsquo;t your ordinary guide to deployment and tools. As a matter of fact, this is somewhat of an anti-guide &ndash; a guide on how to approach tools and deployment &ndash; rather than a guide to any specific approach. I was inspired for this by a post yesterday to <a href="http://news.ycombinator.com/item?id=3879926">Hacker News</a> by <a href="http://hynek.me/articles/python-deployment-anti-patterns/">Hynek Schlawack</a> on Python Deployment Anti-Patterns and other tools used in doing Python web development. The article and associated discussion on HN are both excellent and I highly recommend a read.</p>
+
+<p>However, I often find that articles and resources like these can actually be quite counterproductive to my as a developer. I look at these lists and think to myself, &ldquo;Oh no, I&rsquo;m not using all of the best practices! I should switch over my development stack to ensure maximum scalability and stability for the long term.&rdquo; Then I spend several hours researching the tools, reading tutorials, reading docs, messing with the server, probably breaking something, fixing it and generally coming back right back to where I started with maybe a few tweaks to my process.</p>
+
+<p>The problem with this philosophy is that it&rsquo;s a bit like putting an air spoiler on my Honda Accord. Certainly the right spoiler, air-filter, tires, etc will make improve the performance of my car, but right now, I need to focus on getting to work and shipping a product. Playing around with a deployment system for a massively distributed system is pointless when you&rsquo;re building out your initial product and trying to nail down the core feature set and build a customer base.</p>
+
+<p>However, sticking with what you know and never moving onward is a surefire recipe for stagnation and boredom as a developer. I got into technology because I didn&rsquo;t want to be bored and I wanted to be pushing the limits of what I can do and I want to have a solid stack and is up to date and using current best practices. There is usually a reason why smart, successful people are developing and implementing such practices.</p>
+
+<p>So here has become my approach to keeping up with best practices and scaling up my applications, while not wasting time with pointless Yak Shaving: <strong>one new deployment feature per deployment</strong>. Instead of trying to build out the perfect stack from the beginning, I take what I currently have, and know and try one new thing. Maybe I switch to RabbitMQ instead of Redis for message passing. Maybe I use Supervisord instead of upstart for process management. Whatever it is, I optimize for one big improvement to my workflow per big improvement on the user side. This way the stack and architecture grows and improves as the interface does. The additional advantage here is that as I get more comfortable with these technologies, I start to think in those terms and start to build them into my projects from day 1.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Ode to the Little Stuff]]></title>
+    <link href="/posts/ode-to-the-little-stuff/"/>
+    <id>/posts/ode-to-the-little-stuff/</id>
+    <published>2012-01-01T10:24:53-07:00</published>
+    <updated>2012-01-01T10:24:53-07:00</updated>
+    <content type="html"><![CDATA[<p>This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time.</p>
+
+<p>Now, you might say, “But Chris, what about the <a href="http://theleanstartup.com/">lean startup approach</a>? What about the <a href="http://venturehacks.com/articles/minimum-viable-product">Minimum Viable Product</a>? Aren’t you guys supposed to be a scrappy startup? Well, yes…</p>
+
+<p>But…</p>
+
+<p>Don’t forget the little stuff. It represents your biggest opportunity to get maximum impact for a minimum of effort. Yes, I could have re-architected our front-end stack to implement new features, but fixing bad copy, broken CSS and a poor user interface served our customers far better than that would have. The key word in MVP is viable. It isn’t just a minimum product; it has to be one that validates and implements (successfully) your business model. Otherwise, it’s just junk.</p>
+
+<p>There is a second reason to think about the little stuff: putting the user first. Sometimes, it is tempting to fall into the trap of wanting to take out a new canvas and make big, bold strokes to hit your targets. Certainly, not falling into ruts is a key startup success trait. However, by taking what you have and re-focusing on what about it is broken, you get much closer to a workable product than constantly starting over. A good engineer doesn’t start over their project from scratch every time they find a mistake. A good engineer fixes it and refactors it into a good, workable product. The same holds for designing your product. Making it better is more rewarding and more beneficial to your users than starting over.</p>
+]]></content>
+  </entry>
+</feed>
