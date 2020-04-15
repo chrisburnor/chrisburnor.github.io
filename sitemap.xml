@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2019-09-22T18:14:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-09-22T18:14:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/the-bi-post/</loc>
+    <lastmod>2019-09-22T18:14:57-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/weekly-thoughts/</loc>
     <lastmod>2014-11-03T09:53:00-08:00</lastmod>
   </url>
@@ -129,24 +144,10 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2014-11-03T09:53:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2014-11-03T09:53:00-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
