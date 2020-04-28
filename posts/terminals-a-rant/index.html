@@ -1,224 +1,194 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  
-    <title>Terminals: A Rant :: Chris Burnor — Philosophical Nerd</title>
-  
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="description" content="First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&amp;rsquo;s usually in the foreground. Honestly, if it weren&amp;rsquo;t for the fact that most of my work is implemented in the browser (and that the best developers are the first to Google), I could probably ditch the GUI entirely.
-However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century."/>
-<meta name="keywords" content=""/>
-<meta name="robots" content="noodp"/>
-<link rel="canonical" href="/posts/terminals-a-rant/" />
+<html lang="en-us">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="HandheldFriendly" content="True" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="generator" content="Hugo 0.69.2" />
+
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/amzrk2/poal-jsdelivr/amzrk2/favicons/favicon.ico" />
 
 
-<link rel="stylesheet" href="/assets/style.css">
+<title>Terminals: A Rant - Chris Burnor</title>
 
-
-
-<link rel="stylesheet" href="/style.css">
-
-
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple-touch-icon-144-precomposed.png">
-
-<link rel="shortcut icon" href="/img/favicon/orange.png">
-
-
-
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Terminals: A Rant :: Chris Burnor — Philosophical Nerd" />
-<meta name="twitter:description" content="First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&amp;rsquo;s usually in the foreground. Honestly, if it weren&amp;rsquo;t for the fact that most of my work is implemented in the browser (and that the best developers are the first to Google), I could probably ditch the GUI entirely.
+<meta name="author" content="Chris Burnor" />
+<meta name="description" content="First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&rsquo;s usually in the foreground. Honestly, if it weren&rsquo;t for the fact that most of my work is implemented in the browser (and that the best developers are the first to Google), I could probably ditch the GUI entirely.
 However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century." />
-<meta name="twitter:site" content="/" />
-<meta name="twitter:creator" content="" />
-<meta name="twitter:image" content="">
 
 
-<meta property="og:locale" content="en" />
+<meta property="og:title" content="Terminals: A Rant" />
+<meta property="og:description" content="First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&rsquo;s usually in the foreground. Honestly, if it weren&rsquo;t for the fact that most of my work is implemented in the browser (and that the best developers are the first to Google), I could probably ditch the GUI entirely.
+However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century." />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Terminals: A Rant :: Chris Burnor — Philosophical Nerd">
-<meta property="og:description" content="First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&amp;rsquo;s usually in the foreground. Honestly, if it weren&amp;rsquo;t for the fact that most of my work is implemented in the browser (and that the best developers are the first to Google), I could probably ditch the GUI entirely.
-However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century." />
 <meta property="og:url" content="/posts/terminals-a-rant/" />
-<meta property="og:site_name" content="Terminals: A Rant" />
-<meta property="og:image" content="">
-<meta property="og:image:width" content="2048">
-<meta property="og:image:height" content="1024">
+<meta property="article:published_time" content="2013-03-14T14:27:00-08:00" />
+<meta property="article:modified_time" content="2013-03-14T14:27:00-08:00" /><meta property="og:site_name" content="Chris Burnor" />
 
-<meta property="article:published_time" content="2013-03-14 14:27:00 -0800 -0800" />
-
-
-
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Terminals: A Rant"/>
+<meta name="twitter:description" content="First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&rsquo;s usually in the foreground. Honestly, if it weren&rsquo;t for the fact that most of my work is implemented in the browser (and that the best developers are the first to Google), I could probably ditch the GUI entirely.
+However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century."/>
 
 
 
 
 
 
+<link rel="stylesheet" href="/css/main.min.css" />
 
 
-</head>
-<body class="">
 
 
-<div class="container">
+<script src="/js/jquery.min.js"></script>
 
-  <header class="header">
-  <div class="header__inner">
-    <div class="header__logo">
-      <a href="/">
-  <div class="logo">
-    Chris Burnor
-  </div>
-</a>
+<script src="/js/lazysizes.min.js"></script>
 
+<link rel="stylesheet" href="/css/all.min.css" />
+
+
+
+
+
+
+
+
+
+<body class="d-flex flex-column h-100">
+    <header>
+    
+    <div class="container-lg clearfix">
+        <div class="col-12 p-3">
+            <a id="main-title" href="/">Chris Burnor</a>
+            <span id="sub-title">Philosophical Nerd</span>
+        </div>
     </div>
-    <div class="menu-trigger">menu</div>
-  </div>
-  
-    <nav class="menu">
-  <ul class="menu__inner menu__inner--desktop">
-    
-      
-        
-          <li><a href="/posts.xml">Atom</a></li>
-        
-      
-        
-          <li><a href="/">Blog</a></li>
-        
-      
-      
-        <ul class="menu__sub-inner">
-          <li class="menu__sub-inner-more-trigger">Show more ▾</li>
-
-          <ul class="menu__sub-inner-more hidden">
-            
-              
-                <li><a href="/index.html">RSS</a></li>
-              
-            
-              
-                <li><a href="/about">About</a></li>
-              
-            
-          </ul>
-        </ul>
-      
-    
-  </ul>
-
-  <ul class="menu__inner menu__inner--mobile">
-    
-      
-        <li><a href="/posts.xml">Atom</a></li>
-      
-    
-      
-        <li><a href="/">Blog</a></li>
-      
-    
-      
-        <li><a href="/index.html">RSS</a></li>
-      
-    
-      
-        <li><a href="/about">About</a></li>
-      
-    
-  </ul>
-</nav>
-
-  
 </header>
 
-
-  <div class="content">
+    <main>
+        <div class="container-lg clearfix">
+            
+            <div class="col-md-9 col-12 float-left" id="content">
+                
+<article>
+    <h4 id="post-title">
+        <a href="/posts/terminals-a-rant/">Terminals: A Rant</a>
+    </h4>
+    <div id="post-meta">
+        <span>
+    <time datetime="2013-03-14 14:27:00 -0800 -0800">2013-03-14</time> |
+</span>
+<span>
+    <span>269 words</span> |
+</span>
+<span>
     
-<div class="post">
-  <h1 class="post-title">
-    <a href="/posts/terminals-a-rant/">Terminals: A Rant</a></h1>
-  <div class="post-meta">
-    <span class="post-date">
-      2013-03-14
-    </span>
+    <span>No tag</span>
     
-  </div>
-
-  
-
-  
-
-  <div class="post-content">
-    <p>First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&rsquo;s usually in the foreground. Honestly, if it weren&rsquo;t for the fact that most of my work is implemented in the browser (and that the best <a href="http://blog.framebase.io/post/43973262180/the-best-programmers-are-the-quickest-to-google">developers are the first to Google</a>), I could probably ditch the GUI entirely.</p>
-
+</span>
+    </div>
+    
+    <div class="markdown-body" id="post-content">
+        <p>First let me start off by saying that I absolutely love my terminal. I spend literally all day with a terminal window open, and it&rsquo;s usually in the foreground. Honestly, if it weren&rsquo;t for the fact that most of my work is implemented in the browser (and that the best <a href="http://blog.framebase.io/post/43973262180/the-best-programmers-are-the-quickest-to-google" target="_blank">developers are the first to Google</a>), I could probably ditch the GUI entirely.</p>
 <p>However, it is because of this love that I would like to rant for a moment on the state of the modern terminal and provide some suggestions for how terminal emulators might be brought into the 21st century. I particularly want to focus on features that would make terminal emulators better <em>for experts</em>. Most &lsquo;features&rsquo; on terminals seem to be for making it easier for newbies to get started with the terminal, rather than to make the terminal better once they&rsquo;ve mastered it.</p>
-
 <p>I would like to see more than 256 color support in the terminal. This one is a no brainer.</p>
-
 <p>Terminals should have better integration with the system clipboard. Why is selecting text so difficult. I should be able to use the system clipboard, not just for inputting and selecting text, but be able to pipe and modify that text.</p>
-
 <p>Terminals should integrate better with the system content types. Apple has done some good work here with the <code>open</code> command. Linux should take some inspiration here.</p>
-
 <p>I realize there are some tools out there that do some of this, but these seem to be features that should really be part of the terminal itself, not some half-baked weekend side project that never gets updated.</p>
 
-  </div>
-  
-  <div class="pagination">
-    <div class="pagination__title">
-      <span
-        class="pagination__title-h">Read other posts</span>
-      <hr />
     </div>
-    <div class="pagination__buttons">
-      
-      <span class="button previous">
-        <a href="/posts/rocket-powered-bicycles/">
-          <span class="button__icon">←</span>
-          <span class="button__text">Rocket Powered Bicycles</span>
-        </a>
-      </span>
-      
-      
-      <span class="button next">
-        <a href="/posts/thoughts-on-thinking-about-the-end-of-the-world/">
-          <span class="button__text">Thoughts on Thinking About the End of the World</span>
-          <span class="button__icon">→</span>
-        </a>
-      </span>
-      
-    </div>
-  </div>
-  
+</article>
 
-  
-
+<div class="markdown-body" id="license">
+    <blockquote>
+        <p>Unless otherwise noted, the content of this site is licensed under <a rel="license" href="" target="_blank"></a>.</p>
+    </blockquote>
 </div>
 
-  </div>
 
-  
-    <footer class="footer">
-  <div class="footer__inner">
-    
-      <div class="copyright">
-        <span>© 2020 Powered by <a href="http://gohugo.io">Hugo</a></span>
-        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
-      </div>
-    
-  </div>
+
+
+            </div>
+            
+            <div class="col-md-3 col-12 float-left" id="sidebar">
+                
+<div id="widget-toc">
+    <h5></h5>
+    <nav id="TableOfContents"></nav>
+</div>
+
+<div id="widget-pages">
+    <h5>Pages</h5>
+    <ul>
+        
+        
+        <li>
+            <a href="/">Blog</a>
+        </li>
+        
+        <li>
+            <a href="/about">About</a>
+        </li>
+        
+    </ul>
+</div>
+<div id="widget-tags">
+    <h5></h5>
+    <div>
+        
+    </div>
+</div>
+<div id="widget-links">
+    <h5>Links</h5>
+    <ul>
+        
+        <li>
+            <a href="https://twitter.com/chrisburnor" target="_blank"><span>Twitter</span></a>
+        </li>
+        
+        <li>
+            <a href="https://github.com/chrisburnor" target="_blank"><span>Github</span></a>
+        </li>
+        
+        <li>
+            <a href="/index.xml" target="_blank"><span>RSS</span></a>
+        </li>
+        
+        <li>
+            <a href="/posts.xml" target="_blank"><span>Atom</span></a>
+        </li>
+        
+    </ul>
+</div>
+
+            </div>
+            
+            
+        </div>
+    </main>
+
+    <footer>
+    <div class="container-lg text-center">
+        <p>&copy; 2020 <a href="/">Chris Burnor</a> | Powered by <a href="https://github.com/amzrk2/hugo-theme-fuji/" target="_blank">Fuji</a> & <a href="https://gohugo.io/" target="_blank">Hugo</a> </p>
+    </div>
 </footer>
-
-<script src="/assets/main.js"></script>
-<script src="/assets/prism.js"></script>
+    
 
 
 
 
+<script>
+    $("#widget-toc a").click(function () {
+        $("html, body").animate({
+            scrollTop: $($(this).attr("href")).offset().top
+        });
+        return false;
+    });
+</script>
 
-  
-</div>
+
 
 </body>
+
 </html>

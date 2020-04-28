@@ -1,212 +1,190 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  
-    <title>Ode to the Little Stuff :: Chris Burnor — Philosophical Nerd</title>
-  
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="description" content="This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time."/>
-<meta name="keywords" content=""/>
-<meta name="robots" content="noodp"/>
-<link rel="canonical" href="/posts/ode-to-the-little-stuff/" />
+<html lang="en-us">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="HandheldFriendly" content="True" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="generator" content="Hugo 0.69.2" />
+
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/amzrk2/poal-jsdelivr/amzrk2/favicons/favicon.ico" />
 
 
-<link rel="stylesheet" href="/assets/style.css">
+<title>Ode to the Little Stuff - Chris Burnor</title>
+
+<meta name="author" content="Chris Burnor" />
+<meta name="description" content="This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time." />
 
 
-
-<link rel="stylesheet" href="/style.css">
-
-
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple-touch-icon-144-precomposed.png">
-
-<link rel="shortcut icon" href="/img/favicon/orange.png">
-
-
-
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Ode to the Little Stuff :: Chris Burnor — Philosophical Nerd" />
-<meta name="twitter:description" content="This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time." />
-<meta name="twitter:site" content="/" />
-<meta name="twitter:creator" content="" />
-<meta name="twitter:image" content="">
-
-
-<meta property="og:locale" content="en" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Ode to the Little Stuff :: Chris Burnor — Philosophical Nerd">
+<meta property="og:title" content="Ode to the Little Stuff" />
 <meta property="og:description" content="This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time." />
+<meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/ode-to-the-little-stuff/" />
-<meta property="og:site_name" content="Ode to the Little Stuff" />
-<meta property="og:image" content="">
-<meta property="og:image:width" content="2048">
-<meta property="og:image:height" content="1024">
+<meta property="article:published_time" content="2012-01-01T10:24:53-07:00" />
+<meta property="article:modified_time" content="2012-01-01T10:24:53-07:00" /><meta property="og:site_name" content="Chris Burnor" />
 
-<meta property="article:published_time" content="2012-01-01 10:24:53 -0700 -0700" />
-
-
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ode to the Little Stuff"/>
+<meta name="twitter:description" content="This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time."/>
 
 
 
 
 
 
+<link rel="stylesheet" href="/css/main.min.css" />
 
 
 
-</head>
-<body class="">
+
+<script src="/js/jquery.min.js"></script>
+
+<script src="/js/lazysizes.min.js"></script>
+
+<link rel="stylesheet" href="/css/all.min.css" />
 
 
-<div class="container">
 
-  <header class="header">
-  <div class="header__inner">
-    <div class="header__logo">
-      <a href="/">
-  <div class="logo">
-    Chris Burnor
-  </div>
-</a>
 
+
+
+
+
+
+<body class="d-flex flex-column h-100">
+    <header>
+    
+    <div class="container-lg clearfix">
+        <div class="col-12 p-3">
+            <a id="main-title" href="/">Chris Burnor</a>
+            <span id="sub-title">Philosophical Nerd</span>
+        </div>
     </div>
-    <div class="menu-trigger">menu</div>
-  </div>
-  
-    <nav class="menu">
-  <ul class="menu__inner menu__inner--desktop">
-    
-      
-        
-          <li><a href="/posts.xml">Atom</a></li>
-        
-      
-        
-          <li><a href="/">Blog</a></li>
-        
-      
-      
-        <ul class="menu__sub-inner">
-          <li class="menu__sub-inner-more-trigger">Show more ▾</li>
-
-          <ul class="menu__sub-inner-more hidden">
-            
-              
-                <li><a href="/index.html">RSS</a></li>
-              
-            
-              
-                <li><a href="/about">About</a></li>
-              
-            
-          </ul>
-        </ul>
-      
-    
-  </ul>
-
-  <ul class="menu__inner menu__inner--mobile">
-    
-      
-        <li><a href="/posts.xml">Atom</a></li>
-      
-    
-      
-        <li><a href="/">Blog</a></li>
-      
-    
-      
-        <li><a href="/index.html">RSS</a></li>
-      
-    
-      
-        <li><a href="/about">About</a></li>
-      
-    
-  </ul>
-</nav>
-
-  
 </header>
 
-
-  <div class="content">
+    <main>
+        <div class="container-lg clearfix">
+            
+            <div class="col-md-9 col-12 float-left" id="content">
+                
+<article>
+    <h4 id="post-title">
+        <a href="/posts/ode-to-the-little-stuff/">Ode to the Little Stuff</a>
+    </h4>
+    <div id="post-meta">
+        <span>
+    <time datetime="2012-01-01 10:24:53 -0700 -0700">2012-01-01</time> |
+</span>
+<span>
+    <span>310 words</span> |
+</span>
+<span>
     
-<div class="post">
-  <h1 class="post-title">
-    <a href="/posts/ode-to-the-little-stuff/">Ode to the Little Stuff</a></h1>
-  <div class="post-meta">
-    <span class="post-date">
-      2012-01-01
-    </span>
+    <span>No tag</span>
     
-  </div>
-
-  
-
-  
-
-  <div class="post-content">
-    <p>This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time.</p>
-
-<p>Now, you might say, “But Chris, what about the <a href="http://theleanstartup.com/">lean startup approach</a>? What about the <a href="http://venturehacks.com/articles/minimum-viable-product">Minimum Viable Product</a>? Aren’t you guys supposed to be a scrappy startup? Well, yes…</p>
-
+</span>
+    </div>
+    
+    <div class="markdown-body" id="post-content">
+        <p>This past week I had finished a big project for my work and was trying to decide what to build next. We had discussed several major new projects that included a major overhaul of one of the core interfaces to our application. However, instead of starting that, I took some time to fix a bunch of nagging little bugs that had been bothering me (and our users) for some time.</p>
+<p>Now, you might say, “But Chris, what about the <a href="http://theleanstartup.com/" target="_blank">lean startup approach</a>? What about the <a href="http://venturehacks.com/articles/minimum-viable-product" target="_blank">Minimum Viable Product</a>? Aren’t you guys supposed to be a scrappy startup? Well, yes…</p>
 <p>But…</p>
-
 <p>Don’t forget the little stuff. It represents your biggest opportunity to get maximum impact for a minimum of effort. Yes, I could have re-architected our front-end stack to implement new features, but fixing bad copy, broken CSS and a poor user interface served our customers far better than that would have. The key word in MVP is viable. It isn’t just a minimum product; it has to be one that validates and implements (successfully) your business model. Otherwise, it’s just junk.</p>
-
 <p>There is a second reason to think about the little stuff: putting the user first. Sometimes, it is tempting to fall into the trap of wanting to take out a new canvas and make big, bold strokes to hit your targets. Certainly, not falling into ruts is a key startup success trait. However, by taking what you have and re-focusing on what about it is broken, you get much closer to a workable product than constantly starting over. A good engineer doesn’t start over their project from scratch every time they find a mistake. A good engineer fixes it and refactors it into a good, workable product. The same holds for designing your product. Making it better is more rewarding and more beneficial to your users than starting over.</p>
 
-  </div>
-  
-  <div class="pagination">
-    <div class="pagination__title">
-      <span
-        class="pagination__title-h">Read other posts</span>
-      <hr />
     </div>
-    <div class="pagination__buttons">
-      
-      <span class="button previous">
-        <a href="/posts/deployment-tools-and-guide/">
-          <span class="button__icon">←</span>
-          <span class="button__text">Deployment Tools and Guide</span>
-        </a>
-      </span>
-      
-      
-    </div>
-  </div>
-  
+</article>
 
-  
-
+<div class="markdown-body" id="license">
+    <blockquote>
+        <p>Unless otherwise noted, the content of this site is licensed under <a rel="license" href="" target="_blank"></a>.</p>
+    </blockquote>
 </div>
 
-  </div>
 
-  
-    <footer class="footer">
-  <div class="footer__inner">
-    
-      <div class="copyright">
-        <span>© 2020 Powered by <a href="http://gohugo.io">Hugo</a></span>
-        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
-      </div>
-    
-  </div>
+
+
+            </div>
+            
+            <div class="col-md-3 col-12 float-left" id="sidebar">
+                
+<div id="widget-toc">
+    <h5></h5>
+    <nav id="TableOfContents"></nav>
+</div>
+
+<div id="widget-pages">
+    <h5>Pages</h5>
+    <ul>
+        
+        
+        <li>
+            <a href="/">Blog</a>
+        </li>
+        
+        <li>
+            <a href="/about">About</a>
+        </li>
+        
+    </ul>
+</div>
+<div id="widget-tags">
+    <h5></h5>
+    <div>
+        
+    </div>
+</div>
+<div id="widget-links">
+    <h5>Links</h5>
+    <ul>
+        
+        <li>
+            <a href="https://twitter.com/chrisburnor" target="_blank"><span>Twitter</span></a>
+        </li>
+        
+        <li>
+            <a href="https://github.com/chrisburnor" target="_blank"><span>Github</span></a>
+        </li>
+        
+        <li>
+            <a href="/index.xml" target="_blank"><span>RSS</span></a>
+        </li>
+        
+        <li>
+            <a href="/posts.xml" target="_blank"><span>Atom</span></a>
+        </li>
+        
+    </ul>
+</div>
+
+            </div>
+            
+            
+        </div>
+    </main>
+
+    <footer>
+    <div class="container-lg text-center">
+        <p>&copy; 2020 <a href="/">Chris Burnor</a> | Powered by <a href="https://github.com/amzrk2/hugo-theme-fuji/" target="_blank">Fuji</a> & <a href="https://gohugo.io/" target="_blank">Hugo</a> </p>
+    </div>
 </footer>
-
-<script src="/assets/main.js"></script>
-<script src="/assets/prism.js"></script>
+    
 
 
 
 
+<script>
+    $("#widget-toc a").click(function () {
+        $("html, body").animate({
+            scrollTop: $($(this).attr("href")).offset().top
+        });
+        return false;
+    });
+</script>
 
-  
-</div>
+
 
 </body>
+
 </html>

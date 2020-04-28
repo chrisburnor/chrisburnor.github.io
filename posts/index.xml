@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chris Burnor</title>
@@ -6,19 +6,10 @@
     <description>Recent content in Posts on Chris Burnor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 18:14:57 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2014 09:53:00 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Bi Post</title>
-      <link>/posts/the-bi-post/</link>
-      <pubDate>Sun, 22 Sep 2019 18:14:57 -0800</pubDate>
-      
-      <guid>/posts/the-bi-post/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Weekly Thoughts</title>
@@ -175,7 +166,7 @@ However, it is because of this love that I would like to rant for a moment on th
       <pubDate>Sun, 11 Nov 2012 20:35:00 -0800</pubDate>
       
       <guid>/posts/whats-the-deal-with-star-rc-files/</guid>
-      <description>Modern POSIX operating systems are littered with ._rc and rc._ files. Apparently these stand for &amp;lsquo;run commands&amp;rsquo; and the term actually dates all the way back to 1965 on the MIT CTSS system (the precursor to Multics which was the precursor to Unix).
+      <description>Modern POSIX operating systems are littered with .rc and rc. files. Apparently these stand for &amp;lsquo;run commands&amp;rsquo; and the term actually dates all the way back to 1965 on the MIT CTSS system (the precursor to Multics which was the precursor to Unix).
 I love the overwhelming weight of history that you find in a *nix system.</description>
     </item>
     
@@ -197,7 +188,7 @@ What is risk? Fundamentally, it is simply a probability &amp;ndash; the chance t
       <guid>/posts/success-is-80-percent-not-screwing-up/</guid>
       <description>There was a poster in the the hallway of my middle school that said &amp;lsquo;Shoot for the Moon: Even if you miss, you&amp;rsquo;ll land among the stars.&amp;rsquo;
 I always hated that poster.
-My cynical eighth grade self, thought &amp;ldquo;It should read: &amp;lsquo;Shoot for the Moon: If you miss, you&amp;rsquo;ll slowly suffocate to death in the cold loneliness of space.&amp;rsquo; &amp;ldquo; Cynicism aside, it seemed patently false. Success wasn&amp;rsquo;t about shooting for the moon, but doing your homework, studying for tests and not being a dick to your friends.</description>
+My cynical eighth grade self, thought &amp;ldquo;It should read: &amp;lsquo;Shoot for the Moon: If you miss, you&amp;rsquo;ll slowly suffocate to death in the cold loneliness of space.&amp;rsquo; &amp;quot; Cynicism aside, it seemed patently false. Success wasn&amp;rsquo;t about shooting for the moon, but doing your homework, studying for tests and not being a dick to your friends.</description>
     </item>
     
     <item>

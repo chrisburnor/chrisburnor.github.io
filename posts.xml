@@ -2,15 +2,31 @@
   <title>Chris Burnor</title>
   <link href="/index.xml" rel="self"/>
   <link href="/"/>
-  <updated>2019-09-22T18:14:57-08:00</updated>
+  <updated>2014-11-03T09:53:00-08:00</updated>
   <id>/</id>
   <generator>Hugo -- gohugo.io</generator>
   <entry>
     <title type="html"><![CDATA[Posts]]></title>
     <link href="/posts/"/>
     <id>/posts/</id>
-    <published>2019-09-22T18:14:57-08:00</published>
-    <updated>2019-09-22T18:14:57-08:00</updated>
+    <author>
+      <name>Chris Burnor</name>
+    </author>
+    <published>2014-11-03T09:53:00-08:00</published>
+    <updated>2014-11-03T09:53:00-08:00</updated>
     <content type="html"><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[About]]></title>
+    <link href="/about/"/>
+    <id>/about/</id>
+    <author>
+      <name>Chris Burnor</name>
+    </author>
+    <published>0001-01-01T00:00:00+00:00</published>
+    <updated>0001-01-01T00:00:00+00:00</updated>
+    <content type="html"><![CDATA[<h1 id="about">About</h1>
+<p>Philosophical Nerd.</p>
+]]></content>
   </entry>
 </feed>
