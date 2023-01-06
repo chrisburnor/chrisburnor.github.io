@@ -29,4 +29,16 @@
 <p>Philosophical Nerd.</p>
 ]]></content>
   </entry>
+  <entry>
+    <title type="html"><![CDATA[Projects]]></title>
+    <link href="/projects/"/>
+    <id>/projects/</id>
+    <author>
+      <name>Chris Burnor</name>
+    </author>
+    <published>0001-01-01T00:00:00+00:00</published>
+    <updated>0001-01-01T00:00:00+00:00</updated>
+    <content type="html"><![CDATA[<p>This is for projects</p>
+]]></content>
+  </entry>
 </feed>
